@@ -1,6 +1,6 @@
 package day42_Static;
 
-public class Server {
+public class Server_Restaurant {
 
     String name;
     int employeeID;

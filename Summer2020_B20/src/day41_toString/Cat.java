@@ -1,4 +1,4 @@
-package day41_static;
+package day41_toString;
 
 public class Cat {
 

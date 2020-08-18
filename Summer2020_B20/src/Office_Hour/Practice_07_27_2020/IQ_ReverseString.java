@@ -1,6 +1,6 @@
 package Office_Hour.Practice_07_27_2020;
 
-public class ReverseString {
+public class IQ_ReverseString {
 
     public static void main(String[] args) {
 //Ex: Reverse("ABCD"); ==> DCBA

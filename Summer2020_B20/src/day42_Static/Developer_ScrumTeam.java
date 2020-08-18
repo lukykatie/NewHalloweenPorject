@@ -1,6 +1,6 @@
 package day42_Static;
 
-public class Developer {
+public class Developer_ScrumTeam {
 
    /*
 create a class called Developer

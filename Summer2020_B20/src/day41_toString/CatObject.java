@@ -1,8 +1,6 @@
-package day41_static;
+package day41_toString;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class CatObject {
 

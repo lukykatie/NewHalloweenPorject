@@ -1,6 +1,4 @@
-package day41_static;
-
-import java.sql.SQLOutput;
+package day41_toString;
 
 public class printingCustomClassObjects {
 

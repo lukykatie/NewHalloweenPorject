@@ -1,6 +1,6 @@
 package day42_Static;
 
-public class Tester {
+public class Tester_ScrumTeam {
     /*
 
 

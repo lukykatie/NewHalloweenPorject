@@ -1,6 +1,6 @@
 package day42_Static;
 
-public class ShapeObjects {
+public class ShapeObjects_Circle {
 
     public static void main(String[] args) {
         // find the area of circle
@@ -27,5 +27,10 @@ public class ShapeObjects {
         int a =100;
        // static int b = 300; you can not create a static variable in any method, it got to be created outside of methods
 
+    }
+
+    public void method1 (){
+        int a = 200;
+        //static int b = 300;
     }
 }
